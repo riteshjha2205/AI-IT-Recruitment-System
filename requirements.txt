@@ -1,3 +1,4 @@
 pandas
 scikit-learn
-numpy
+PyPDF2
+flask
